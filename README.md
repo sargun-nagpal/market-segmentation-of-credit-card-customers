@@ -1,4 +1,4 @@
-# Market Segmentation of credit card customers
+# Market Segmentation of Credit card customers
 This case requires us to develop customer segmentation to define marketing strategies. An exhaustive analysis using Clustering techniques, namely K-means and DBSCAN was carried out.
 
 ### Dataset
@@ -8,7 +8,7 @@ The dataset summarizes the usage behavior of about 9000 active credit card holde
 
 ### Data dictionary
 1.  **CUST_ID** : Identification of Credit Card holder (Categorical)
-2.  **BALANCE** : Balance amount left in their account to make purchases (
+2.  **BALANCE** : Balance amount left in their account to make purchases
 3.  **BALANCE_FREQUENCY** : How frequently the Balance is updated, score between 0 and 1 (1 = frequently updated, 0 = not frequently updated)
 4.  **PURCHASES** : Amount of purchases made from account
 5.  **ONEOFF_PURCHASES** : Maximum purchase amount done in one-go
