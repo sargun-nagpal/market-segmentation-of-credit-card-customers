@@ -19,7 +19,7 @@ The dataset summarizes the usage behavior of about 9000 active credit card holde
 10. **PURCHASESINSTALLMENTSFREQUENCY** : How frequently purchases in installments are being done (1 = frequently done, 0 = not frequently done)
 11. **CASHADVANCEFREQUENCY** : How frequently the cash in advance being paid
 12. **CASHADVANCETRX** : Number of Transactions made with "Cash in Advanced"
-13. **PURCHASES_TRX** : Numbe of purchase transactions made
+13. **PURCHASES_TRX** : Number of purchase transactions made
 14. **CREDIT_LIMIT** : Limit of Credit Card for user
 15. **PAYMENTS** : Amount of Payment done by user
 16. **MINIMUM_PAYMENTS** : Minimum amount of payments made by user
